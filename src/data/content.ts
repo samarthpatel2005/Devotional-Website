@@ -6,7 +6,7 @@ export const devotionalContents: DevotionalContent[] = [
     title: 'हनुमान चालीसा / હનુમાન ચાલીસા',
     description: 'A devotional hymn addressed to Lord Hanuman',
     imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2az5eDfxbeLjgN7KGpO_FBLDRzUIdx5NtQ&s',
-    audioUrl: 'https://cdn.jsdelivr.net/gh/samarth-dev/bhaktisaar-assets@main/audio/hanuman-chalisa.mp3',
+    audioUrl: 'audio/hanuman-chalisa.mp3',
     sections: [
       {
         id: 'doha',
